@@ -1,0 +1,3 @@
+AAA ==>from.txt
+BBB ==>append.txt
+*Copied by Sync Method*
